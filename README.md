@@ -17,6 +17,9 @@ you only need to custom this part
 
 var url = "https://your.domain/folder-where-you-save-images/your-image.png";
 
+and the time, i use 5000 ms
+
+}, 5000);
 
 ## Built With
 
